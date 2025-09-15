@@ -44,3 +44,35 @@ python3 port_scanner.py 127.0.0.1 1 1024
 
 # view results
 cat scan_results.txt
+
+Performed network reconnaissance and documented exploitation & remediation steps for controlled lab VMs (Nmap, Metasploit).
+
+Triaged SOC alerts with Splunk and produced IOC timelines + containment playbooks (Let’sDefend labs).
+
+Implemented secure AWS IAM & S3 configurations and validated with Terraform in a disposable test account.
+
+🛠 Skills & Tools
+
+Networking: Nmap, Wireshark, tcpdump
+Offensive: Metasploit, Burp Suite, sqlmap
+Blue Team / SIEM: Splunk, Splunk SPL, Microsoft Sentinel basics
+Cloud: AWS (IAM, S3), Terraform (test infra)
+Scripting: Python (automation, scanners), Bash
+
+🎥 2-min demos (replace with your unlisted links)
+
+Port Scanner demo → https://youtu.be/UNLISTED_PORT_SCANNER_LINK
+
+SOC incident walkthrough → https://youtu.be/UNLISTED_SOC_WALKTHROUGH_LINK
+
+(Replace the two links above with your YouTube unlisted/demo links or remove if you don’t have videos yet.)
+
+⚠️ Ethics & scope
+
+I only test systems I own or have explicit permission to test. All published artifacts are sanitized — no keys, no customer data, no live targets.
+
+📬 Contact / Next steps
+
+If you want a walkthrough or a mock interview code review, DM me on LinkedIn or email: tiger.ming@example.com
+
+(Replace with your real contact info.)
