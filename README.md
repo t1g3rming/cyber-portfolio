@@ -32,19 +32,6 @@
   Found public S3 & loose IAM roles in my test account — fixed with Terraform & least-privilege rules.
 
 ---
-
-## 🚀 Quick Start (run the Port Scanner)
-```bash
-# clone repo (replace <your-github-username> below)
-git clone https://github.com/<your-github-username>/cyber-portfolio.git
-cd cyber-portfolio/project-port-scanner
-
-# run scanner (lab use only)
-python3 port_scanner.py 127.0.0.1 1 1024
-
-# view results
-cat scan_results.txt
-
 ---
 
 ## 🛠 Skills & Tools
@@ -78,3 +65,21 @@ cat scan_results.txt
 - **SOC incident walkthrough:** [Watch here](https://youtu.be/UNLISTED_SOC_WALKTHROUGH_LINK)  
 
 > Replace the links above with your real unlisted/demo links or remove if you don’t have videos yet.
+
+---
+## 🚀 Quick Start (run the Port Scanner)
+```bash
+# clone repo (replace <your-github-username> below)
+git clone https://github.com/<your-github-username>/cyber-portfolio.git
+cd cyber-portfolio/project-port-scanner
+
+# run scanner (lab use only)
+python3 port_scanner.py 127.0.0.1 1 1024
+
+# view results
+cat scan_results.txt
+
+---
+
+
+
