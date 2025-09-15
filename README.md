@@ -44,3 +44,37 @@ python3 port_scanner.py 127.0.0.1 1 1024
 
 # view results
 cat scan_results.txt
+
+---
+
+## 🛠 Skills & Tools
+**Networking:**  
+- Nmap  
+- Wireshark  
+- tcpdump  
+
+**Offensive Security:**  
+- Metasploit  
+- Burp Suite  
+- sqlmap  
+
+**Blue Team / SIEM:**  
+- Splunk  
+- Splunk SPL  
+- Microsoft Sentinel basics  
+
+**Cloud / DevOps:**  
+- AWS (IAM, S3)  
+- Terraform (test infra)  
+
+**Scripting / Automation:**  
+- Python (automation, scanners)  
+- Bash
+
+---
+
+## 🎥 2-min Demos
+- **Port Scanner demo:** [Watch here](https://youtu.be/UNLISTED_PORT_SCANNER_LINK)  
+- **SOC incident walkthrough:** [Watch here](https://youtu.be/UNLISTED_SOC_WALKTHROUGH_LINK)  
+
+> Replace the links above with your real unlisted/demo links or remove if you don’t have videos yet.
